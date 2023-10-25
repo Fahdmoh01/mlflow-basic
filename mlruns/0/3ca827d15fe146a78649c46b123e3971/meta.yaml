@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fahdmohammed/Desktop/workspace/mlflow-basic/mlruns/0/3ca827d15fe146a78649c46b123e3971/artifacts
+end_time: 1698250244170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca827d15fe146a78649c46b123e3971
+run_name: righteous-ox-172
+run_uuid: 3ca827d15fe146a78649c46b123e3971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698250244164
+status: 3
+tags: []
+user_id: fahdmohammed

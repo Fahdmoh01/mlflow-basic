@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fahdmohammed/Desktop/workspace/mlflow-basic/mlruns/0/2ca154b9b04849dab381046f9c7e81a6/artifacts
+end_time: 1698250489335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ca154b9b04849dab381046f9c7e81a6
+run_name: polite-koi-627
+run_uuid: 2ca154b9b04849dab381046f9c7e81a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698250489329
+status: 3
+tags: []
+user_id: fahdmohammed
